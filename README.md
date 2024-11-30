@@ -1,4 +1,4 @@
-# QAI_CEC_2023_Web_Page
+# QAI_CEC_2025_Web_Page
 **About The Special Session:** This is the template of the Quantum Artificial intelligence Special Session organised within the 2025 conference on Evolutionary Computation (CEC'25) on June 8 - 12, 2025, Hangzhou, China.
 
 **About the Organisers:** Zakaria Abdelmoiz DAHI (University of Malaga, Spain), Gabriel Luque (University of Malaga, Spain), Francisco Chicano (University of Malaga, Spain).
